@@ -1,4 +1,4 @@
-![surfs-up-clip-art-9](https://user-images.githubusercontent.com/90797036/141022712-95353800-0fea-4f97-887c-d07652af27ba.png)
+![Surfs up sign](https://user-images.githubusercontent.com/90797036/141022905-54b08182-d1f0-496b-a4da-7128afab8972.JPG)
 
 ## Overview 
 In order to determine if the surf and ice cream shop buisness is sustainable year-round, the temperatures for the months of June and December in Oahu is analyzed.
