@@ -6,7 +6,7 @@ In order to determine if the surf and ice cream shop buisness is sustainable yea
 ## Resources
 - **SQLite database:** hawaii.sqlite<br/>
 - **Python Jupyter Notebook code:** SurfsUp_Challenge.ipynb<br/>
-- **Resources Folder:** Query results (_Jun_Summary_Stats, Dec_Summary_Stats)_<br/>
+- **Resources Folder:** Query results images (_Jun_Summary_Stats, Dec_Summary_Stats)_<br/>
 
 ## Results
 _Temperatures in Oahu in June, and in December are beautiful. There doesn't appear to be any reason any business would not be sustainable year-round, based on temperature alone._<br/>
